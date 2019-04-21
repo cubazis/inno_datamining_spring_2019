@@ -1,2 +1,1 @@
-# inno_datamining_spring
-Inno Data Mining Course
+# Data mining (spring 2019)
