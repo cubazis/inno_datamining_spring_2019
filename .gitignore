@@ -1,2 +1,4 @@
 workbench/*
 gradescript.sh
+*/.ipynb_checkpoints/
+.ipynb_checkpoints/
